@@ -1,6 +1,10 @@
 # Demo Spring Boot
 Vanilla Spring Boot Project (@Component)
 
+## Usage
+* How to use beans
+* How to use 'application.properties' file to configure a project
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
